@@ -17,6 +17,11 @@
       "name": "Renan de Azevedo",
       "email": "renan.razevedo@gmail.com",
       "url": "renandeazevedo.com"
+    },
+    {
+      "name": "Camila Sosa",
+      "email": "camila_ines_sosa@hotmail.com",
+      "url": "github.com/camilasosa96"
     }
   ],
   "bin": {
@@ -33,7 +38,7 @@
   "dependencies": {
     "chalk": "^1.1.3",
     "cli-table": "^0.3.1",
-    "lodash": "^4.12.0"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "chai": "^3.5.0",
